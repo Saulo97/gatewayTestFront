@@ -13,7 +13,7 @@ First you will need to clone down the repository.
 3) You can now clone the project from GitHub. You can do this a few different ways.
 I use HTTPS.
 ```
-- git clone https://github.com/Saulo97/gatewayTestFront.git .
+- git clone https://github.com/Saulo97/gatewayTestFront.git
 ```
 ### Virtual environment
 Create a variable environment to connect to api in production.
