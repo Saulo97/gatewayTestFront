@@ -29,8 +29,8 @@ npm run dev
 ```
 
 ### Project Requirements 
-*node.js
-*npm or yarn
+* node.js
+* npm or yarn
 
 #### This project is in production in the next link.
 ```
